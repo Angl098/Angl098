@@ -7,7 +7,7 @@
 
 I’m a full-stack developer who has involve into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
+I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
   
 
 <a href="https://github.com/Angl098" target="_blank">
