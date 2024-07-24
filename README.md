@@ -1,13 +1,12 @@
-## Hey 👋, I'm Angeles Orquera!  
-  
+## Hey 👋
 
+👋 Hola! Soy desarrolladora full stack y voy comprometida con el aprendizaje en el ámbito de la tecnología, actualmente estoy participando en proyectos y perfeccionando habilidades. Siempre dispuesta a asumir nuevos desafíos!
 
+💻Tech Skills: Javascript - React JS - Redux - HTML - CSS - Express.js - Node.js - Sequelize - PostgreSQL 
 
-### Glad to see you here!  
+👍Soft Skills: Metodologias Agiles - Resolución de Conflictos - Comunicación - Trabajo en Equipo - Colaboración
 
-I’m a full-stack developer who has involve into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
+💪Mi objetivo principal es conseguir mi primer empleo como Full Stack Developer para adquirir experiencia práctica y contribuir al éxito de proyectos. A corto plazo, mi meta es seguir mejorando mis habilidades en desarrollo frontend y familiarizarme con las mejores prácticas de la industria.
   
 
 <a href="https://github.com/Angl098" target="_blank">
