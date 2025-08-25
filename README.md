@@ -1,12 +1,14 @@
 ## Hey 👋
 
-👋 Hola! Soy desarrolladora full stack y voy comprometida con el aprendizaje en el ámbito de la tecnología, actualmente estoy participando en proyectos y perfeccionando habilidades. Siempre dispuesta a asumir nuevos desafíos!
+👋 Hola! Soy Angeles, desarrolladora Frontend con pasión por crear interfaces claras, modernas y fáciles de usar.  
 
-💻Tech Skills: Javascript - React JS - Redux - HTML - CSS - Express.js - Node.js - Sequelize - PostgreSQL 
+💻 Trabajo con **Typescript, React, Redux, HTML, CSS** y disfruto mucho del diseño responsivo y la accesibilidad. También tengo conocimientos de **Node.js y bases de datos**, lo que me permite comprender el flujo completo de una aplicación.  
 
-👍Soft Skills: Metodologias Agiles - Resolución de Conflictos - Comunicación - Trabajo en Equipo - Colaboración
+🚀 Actualmente estoy participando en proyectos para seguir aprendiendo y mejorando mis habilidades, con el objetivo de crecer como **Frontend Developer** y sumar valor en cada equipo en el que participe.  
 
-💪Mi objetivo principal es conseguir mi primer empleo como Full Stack Developer para adquirir experiencia práctica y contribuir al éxito de proyectos. A corto plazo, mi meta es seguir mejorando mis habilidades en desarrollo frontend y familiarizarme con las mejores prácticas de la industria.
+🤝 Me encanta colaborar, compartir ideas y aprender de otros desarrolladores.  
+
+👉 Te invito a ver más de mi trabajo en mi portfolio: [angeles-dev.vercel.app](https://angeles-dev.vercel.app)  
   
 
 <a href="https://github.com/Angl098" target="_blank">
