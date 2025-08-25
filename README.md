@@ -60,13 +60,13 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Angl098&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=Angl098&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angl098&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angl098&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>  
 
